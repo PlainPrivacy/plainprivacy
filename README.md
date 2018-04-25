@@ -21,6 +21,7 @@ https://twitter.com/OiMauricioGomes/status/989135355466133504
 - https://creativecommons.org/
 - https://new.usgbc.org/leed
 - https://www.fda.gov/Food/LabelingNutrition/ucm274593.htm
+- https://developer.apple.com/ios/human-interface-guidelines/app-architecture/requesting-permission/
 
 ## contributing
 feel free to edit this readme on the fly until we figure out something better.
