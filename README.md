@@ -8,7 +8,7 @@ https://twitter.com/OiMauricioGomes/status/989135355466133504
 
 ## todo
 - define "label" properties
-- api?
+- api? html meta tags?
 - verification?
 - create "plain privacy" versions (experts "ELI5") of commonly used software. e.g. facebook, twitter, google analytics, segment.io, intercom
 
@@ -17,3 +17,6 @@ https://twitter.com/OiMauricioGomes/status/989135355466133504
 - https://creativecommons.org/
 - https://new.usgbc.org/leed
 - https://www.fda.gov/Food/LabelingNutrition/ucm274593.htm
+
+## contributing
+feel free to edit this readme on the fly until we figure out something better.
