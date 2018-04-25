@@ -8,6 +8,10 @@ https://twitter.com/OiMauricioGomes/status/989135355466133504
 
 ## todo
 - define "label" properties
+- - data collection
+- - data retention
+- - data resale
+- - ?
 - api? html meta tags?
 - verification?
 - create "plain privacy" versions (experts "ELI5") of commonly used software. e.g. facebook, twitter, google analytics, segment.io, intercom
